@@ -34,6 +34,7 @@ var myList = [
     Number: "7.",
     Text: "Sa Ri Ga Ma | Pa Ma | Da Pa ||</br> </br> Sa Ri Ga Ma | Pa Da | Ni Sa || </br></br> </br> Sa Ni Da Pa | Ma Pa | Ga Ma || </br> </br> Sa Ni Da Pa | Ma Ga | Ri Sa ||",
     audoSrc: "sounds/7.mp3",
+    line: "hhhhh",
   },
 
   {

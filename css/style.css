@@ -19,6 +19,7 @@ img {
 .varas {
   color: rgb(255, 255, 255);
   padding-top: 10px;
+  text-decoration: underline;
 }
 
 .raagaNumber {
