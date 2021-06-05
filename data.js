@@ -27,7 +27,7 @@ var myList = [
   },
   {
     Number: "6.",
-    Text: "Sa Ri Ga Ma | Pa Ma | Ga Ri ||</br> </br> Sa Ni Da Pa | Ma Pa | Da Ni || </br></br> </br> Sa Ni Da Pa | Maa | Sa Ni || </br> </br> Sa Ni Da Pa | Ma Ga | Ri Sa ||",
+    Text: "Sa Ri Ga Ma | Pa Ma | Ga Ri ||</br> </br> Sa Ri Ga Ma | Pa Da | Ni Sa ||  </br></br> </br> Sa Ni Da Pa | Ma Pa | Da Ni || </br> </br> Sa Ni Da Pa | Ma Ga | Ri Sa ||",
     audoSrc: "sounds/6.mp3",
   },
   {
