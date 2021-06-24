@@ -75,8 +75,8 @@ var myList = [
     audoSrc: "sounds/Janti_3.mp3",
   },
   {
-    Number: "4. Not Done",
-    Text: "SaSa RiRi GaGa RiRi || </br> </br> SaSa RiRi GaGa MaMa  || </br> </br> RiRi GaGa MaMa GaGa || </br> </br> RiRi GaGa MaMa PaPa || </br></br> GaGa MaMa PaPa MaMa </br></br>GaGa MaMa PaPa DaDa</br></br>MaMa PaPa DaDa PaPa</br></br>MaMa PaPa DaDa NiNi </br></br>PaPa DaDa NiNi DaDa</br></br>PaPa DaDa NiNi SaSa</br></br>SaSa NiNi DaDa NiNi</br></br>SaSa NiNi DaDa PaPa</br></br>NiNi DaDa PaPa DaDa</br></br>NiNi DaDa PaPa MaMa</br></br>DaDa PaPa MaMa PaPa</br></br>DaDa PaPa MaMa GaGa</br></br>PaPa MaMa GaGa MaMa</br></br>PaPa MaMa GaGa RiRi </br></br>MaMa GaGa RiRi GaGa </br></br> MaMa GaGa RiRi SaSa",
+    Number: "4.",
+    Text: "SaSa RiRi Ga SaRiGa || </br> </br> SaSa RiRi GaGa MaMa  || </br> </br> RiRi GaGa Ma RiGaMa || </br> </br> RiRi GaGa MaMa PaPa || </br></br> GaGa MaMa Pa GaMaPa </br></br>GaGa MaMa PaPa DaDa</br></br>MaMa PaPa Da MaPaDa ||</br></br>MaMa PaPa DaDa NiNi ||</br></br>PaPa DaDa Ni PaDaNi |</br></br>PaPa DaDa NiNi SaSa ||</br></br>SaSa NiNi Da SaNiDa |</br></br>SaSa NiNi DaDa PaPa</br></br>NiNi DaDa Pa NiDaPa</br></br>NiNi DaDa PaPa MaMa</br></br>DaDa PaPa Ma DaPaMa</br></br>DaDa PaPa MaMa GaGa</br></br>PaPa MaMa Ga PaMaGa |</br></br>PaPa MaMa GaGa RiRi ||</br></br>MaMa GaGa Ri MaGaRi </br></br> MaMa GaGa RiRi SaSa ||",
     audoSrc: "sounds/8.mp3",
   },
 ];
