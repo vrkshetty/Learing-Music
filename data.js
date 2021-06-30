@@ -81,7 +81,19 @@ var myList = [
   },
   {
     Number: "5.",
-    Text: "|| Sa Sa Ri Sa Sa Ri Sa Ri | Sa Sa Ri Ri | Ga Ga Ma Ma || </br> </br> || Ri Ri Ga Ri Ri Ga Ri Ga | Ri Ri Ga Ga | Ma Ma Pa Pa || </br> </br> || Ga Ga Ma Ga Ga Ma Ga Ma | ||  Ga Ga Ma Ma | Pa Pa Da Da || </br> </br> || Ma Ma Pa Ma Ma Pa Ma Pa | Ma Ma Pa Pa | Da Da Ni Ni || </br></br> Pa Pa Da Pa Pa Da Pa Da ||| Pa Pa Da Da Ni Ni Sa+ Sa+ || </br></br>Sa+ Sa+ Ni Sa+ Sa+ Ni Sa+ Ni | Sa+ Sa+ Ni Ni | Da Da Pa Pa ||</br></br>|| Ni Ni Da Ni Ni Da Ni Da || Ni Ni Da Da | Pa Pa Ma Ma ||</br></br>|| Da Da Pa Da Da Pa Da Pa || Da Da Pa Pa | Ma Ma Ga Ga ||</br></br>|| Pa Pa Ma Pa Pa Ma Pa Ma | Pa Pa Ma Ma | Ga Ga Ri Ri|| </br></br>|| Ma Ma Ga Ma Ma Ga Ma Ga | Ma Ma Ga Ga | Ri Ri Sa Sa ||",
+    Text: "|| SaSa Ri SaSa Ri SaRi | SaSa RiRi | GaGa MaMa || </br> </br> || RiRi Ga RiRi Ga RiGa | RiRi GaGa | MaMa PaPa || </br> </br> || GaGa Ma GaGa Ma GaMa | ||  GaGa MaMa | PaPa DaDa || </br> </br> || MaMa Pa MaMa Pa MaPa | MaMa PaPa | DaDa NiNi || </br></br> PaPa Da PaPa Da PaDa ||| PaPa DaDa NiNi SaSa || </br></br>SaSa Ni SaSa Ni SaNi | SaSa NiNi | DaDa PaPa ||</br></br>|| NiNi Da NiNi Da NiDa || NiNi DaDa | PaPa MaMa ||</br></br>|| DaDa Pa DaDa Pa DaPa || DaDa PaPa | MaMa GaGa ||</br></br>|| PaPa Ma PaPa Ma PaMa | PaPa MaMa | GaGa RiRi|| </br></br>|| MaMa Ga MaMa Ga MaGa | MaMa GaGa | RiRi SaSa ||",
     audoSrc: "sounds/Janti_5.mp3",
+  },
+  {
+    varase: "Dhatu Varase",
+    Number: "1.",
+    Text: " SaRi SaGa RiMa GaRi </br> </br>  SaRi GaMa PaDa NiSa </br> </br> SaNi SaDa NiPa DaNi </br> </br> SaNi DaPa MaGa RiSa ||",
+    audoSrc: "sounds/1.mp3",
+  },
+  {
+    varase: "Dhatu Varase",
+    Number: "2.",
+    Text: " SaMa GaRi RiMa GaRi </br> </br>  SaRi GaMa PaDa NiSa </br> </br> SaNi SaDa NiPa DaNi </br> </br> SaNi DaPa MaGa RiSa ||",
+    audoSrc: "sounds/1.mp3",
   },
 ];
