@@ -96,4 +96,10 @@ var myList = [
     Text: " SaMa GaRi RiMa GaRi </br> </br>  SaRi GaMa PaDa NiSa </br> </br> SaNi SaDa NiPa DaNi </br> </br> SaNi DaPa MaGa RiSa ||",
     audoSrc: "sounds/1.mp3",
   },
+  {
+    varase: "Dhatu Varase",
+    Number: "3.",
+    Text: " SaMa GaRi RiMa GaRi </br> </br>  SaRi GaMa PaDa NiSa </br> </br> SaNi SaDa NiPa DaNi </br> </br> SaNi DaPa MaGa RiSa ||",
+    audoSrc: "sounds/1.mp3",
+  },
 ];
