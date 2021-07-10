@@ -87,19 +87,19 @@ var myList = [
   {
     varase: "Dhatu Varase",
     Number: "1.",
-    Text: " SaRi SaGa RiMa GaRi </br> </br>  SaRi GaMa PaDa NiSa </br> </br> SaNi SaDa NiPa DaNi </br> </br> SaNi DaPa MaGa RiSa ||",
-    audoSrc: "sounds/1.mp3",
+    Text: " S R S G | R M | G R ||</br> </br>  S R G M | P D | N S ||</br> </br> S N S D | N P | D N || </br> </br> S N D P | M G | R S ||",
+    audoSrc: "Dhatu_1.mp3",
   },
   {
     varase: "Dhatu Varase",
     Number: "2.",
-    Text: " SaMa GaRi RiMa GaRi </br> </br>  SaRi GaMa PaDa NiSa </br> </br> SaNi SaDa NiPa DaNi </br> </br> SaNi DaPa MaGa RiSa ||",
-    audoSrc: "sounds/1.mp3",
+    Text: "S M G R | S R | G M ||</br> </br> R P M G |  R G | M P ||</br> </br> G D P M | G M | P D || </br> </br> M N D P | M P | D N || </br> </br> P S N D | P D | N S || </br> </br> S P D N | S N |D P ||</br> </br> N M P D | N D | P M || </br> </br> D G M P | D P | M G || </br> </br> PR GM PM GR </br> </br> M S R G | M G | R S || ",
+    audoSrc: "Dhatu_2.mp3",
   },
   {
     varase: "Dhatu Varase",
     Number: "3.",
-    Text: " SaMa GaRi RiMa GaRi </br> </br>  SaRi GaMa PaDa NiSa </br> </br> SaNi SaDa NiPa DaNi </br> </br> SaNi DaPa MaGa RiSa ||",
+    Text: "SaMa GaMa RiGa SaRi </br> </br> SaGa RiGa SaRi GaMa ||</br> </br> RiPa MaPa GaMa RiGa </br> </br> RiMa GaMa RiGa MaPa|| </br> </br> GaDa PaDa MaPa GaMa </br> </br> GaPa MaPa GaMa PaDa </br> </br> MaNi DaNi PaDa MaPa </br> </br> MaDa PaDa MaPa DaNi </br> </br> PaSa NiSa DaNi PaDa </br> </br> PaNi DaNi PaDa NiSa </br> </br> SaPa DaPa NiDa SaNi </br> </br> SaDa NiDa SaNi DaPa </br> </br> NiMa PaMa DaPa NiDa </br> </br> NiPa DaPa NiDa PaMa</br> </br> DaGa MaGa PaMa DaPa </br> </br> DaMa PaMa DaPa MaGa </br> </br> PaRi GaRi MaGa PaMa </br> </br> PaGa MaGa PaMa GaRi </br> </br> MaSa RiSa GaRi MaGa </br> </br> MaRi GaRi MaGa RiSa ||",
     audoSrc: "sounds/1.mp3",
   },
 ];
