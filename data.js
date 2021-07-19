@@ -88,13 +88,13 @@ var myList = [
     varase: "Dhatu Varase",
     Number: "1.",
     Text: " S R S G | R M | G R ||</br> </br>  S R G M | P D | N S ||</br> </br> S N S D | N P | D N || </br> </br> S N D P | M G | R S ||",
-    audoSrc: "Dhatu_1.mp3",
+    audoSrc: "sounds/Dhatu_1.mp3",
   },
   {
     varase: "Dhatu Varase",
     Number: "2.",
     Text: "S M G R | S R | G M ||</br> </br> R P M G |  R G | M P ||</br> </br> G D P M | G M | P D || </br> </br> M N D P | M P | D N || </br> </br> P S N D | P D | N S || </br> </br> S P D N | S N |D P ||</br> </br> N M P D | N D | P M || </br> </br> D G M P | D P | M G || </br> </br> PR GM PM GR </br> </br> M S R G | M G | R S || ",
-    audoSrc: "Dhatu_2.mp3",
+    audoSrc: "sounds/Dhatu_2.mp3",
   },
   {
     varase: "Dhatu Varase",
