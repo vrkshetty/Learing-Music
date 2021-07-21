@@ -87,13 +87,13 @@ var myList = [
   {
     varase: "Dhatu Varase",
     Number: "1.",
-    Text: " S R S G | R M | G R ||</br> </br>  S R G M | P D | N S ||</br> </br> S N S D | N P | D N || </br> </br> S N D P | M G | R S ||",
+    Text: " Sa Ri Sa Ga | Ri Ma | Ga Ri ||</br> </br>  Sa Ri Ga Ma | Pa Da | Ni Sa ||</br> </br> Sa Ni Sa Da | Ni Pa | Da Ni || </br> </br> S N D P | M G | R S ||",
     audoSrc: "sounds/Dhatu_1.mp3",
   },
   {
     varase: "Dhatu Varase",
     Number: "2.",
-    Text: "S M G R | S R | G M ||</br> </br> R P M G |  R G | M P ||</br> </br> G D P M | G M | P D || </br> </br> M N D P | M P | D N || </br> </br> P S N D | P D | N S || </br> </br> S P D N | S N |D P ||</br> </br> N M P D | N D | P M || </br> </br> D G M P | D P | M G || </br> </br> PR GM PM GR </br> </br> M S R G | M G | R S || ",
+    Text: "Sa Ma Ga Ri | Sa Ri | Ga Ma ||</br> </br> Ri Pa Ma Ga |  Ri Ga | Ma Pa ||</br> </br> Ga Da Pa Ma | Ga Ma | Pa Da || </br> </br> Ma Ni Da Pa | Ma Pa | Da Ni || </br> </br> Pa Sa Ni Da | Pa Da | Ni Sa || </br> </br> Sa Pa Da Ni | Sa Ni |Da Pa ||</br> </br> Ni Ma Pa Da | Ni Da | Pa Ma || </br> </br> Da Ga Ma Pa | Da Pa | Ma Ga || </br> </br> Pa Ri Ga Ma | Pa Ma | Ga Ri ||</br> </br> Ma Sa Ri Ga | Ma Ga| Ri Sa|| ",
     audoSrc: "sounds/Dhatu_2.mp3",
   },
   {
