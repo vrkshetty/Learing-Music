@@ -100,6 +100,6 @@ var myList = [
     varase: "Dhatu Varase",
     Number: "3.",
     Text: "SaMa GaMa RiGa SaRi </br> </br> SaGa RiGa SaRi GaMa ||</br> </br> RiPa MaPa GaMa RiGa </br> </br> RiMa GaMa RiGa MaPa|| </br> </br> GaDa PaDa MaPa GaMa </br> </br> GaPa MaPa GaMa PaDa </br> </br> MaNi DaNi PaDa MaPa </br> </br> MaDa PaDa MaPa DaNi </br> </br> PaSa NiSa DaNi PaDa </br> </br> PaNi DaNi PaDa NiSa </br> </br> SaPa DaPa NiDa SaNi </br> </br> SaDa NiDa SaNi DaPa </br> </br> NiMa PaMa DaPa NiDa </br> </br> NiPa DaPa NiDa PaMa</br> </br> DaGa MaGa PaMa DaPa </br> </br> DaMa PaMa DaPa MaGa </br> </br> PaRi GaRi MaGa PaMa </br> </br> PaGa MaGa PaMa GaRi </br> </br> MaSa RiSa GaRi MaGa </br> </br> MaRi GaRi MaGa RiSa ||",
-    audoSrc: "sounds/1.mp3",
+    audoSrc: "sounds/Dhatu_3.mp3",
   },
 ];
