@@ -102,4 +102,10 @@ var myList = [
     Text: "SaMa GaMa RiGa SaRi </br> </br> SaGa RiGa SaRi GaMa ||</br> </br> RiPa MaPa GaMa RiGa </br> </br> RiMa GaMa RiGa MaPa|| </br> </br> GaDa PaDa MaPa GaMa </br> </br> GaPa MaPa GaMa PaDa </br> </br> MaNi DaNi PaDa MaPa </br> </br> MaDa PaDa MaPa DaNi </br> </br> PaSa NiSa DaNi PaDa </br> </br> PaNi DaNi PaDa NiSa </br> </br> SaPa DaPa NiDa SaNi </br> </br> SaDa NiDa SaNi DaPa </br> </br> NiMa PaMa DaPa NiDa </br> </br> NiPa DaPa NiDa PaMa</br> </br> DaGa MaGa PaMa DaPa </br> </br> DaMa PaMa DaPa MaGa </br> </br> PaRi GaRi MaGa PaMa </br> </br> PaGa MaGa PaMa GaRi </br> </br> MaSa RiSa GaRi MaGa </br> </br> MaRi GaRi MaGa RiSa ||",
     audoSrc: "sounds/Dhatu_3.mp3",
   },
+  {
+    varase: "Dhatu Varase",
+    Number: "4.",
+    Text: "SaRi SaGa RiGa MaGa </br> </br> SaGa RiGa SaRi GaMa ||</br> </br> RiGa RiMa GaMa PaMa </br> </br> RiMa GaMa RiGa MaPa|| </br> </br> GaMa GaPa MaPa DaPa </br> </br> GaPa MaPa GaMa PaDa </br> </br> MaPa MaDa PaDa NiDa </br> </br> MaDa PaDa MaPa DaNi </br> </br> PaDa PaNi DaNi SaNi </br> </br> PaNi DaNi PaDa NiSa </br> </br> SaNi SaDa NiDa PaDa </br> </br> SaDa NiDa SaNi DaPa </br> </br> NiDa NiPa SaNi DaPa </br> </br> NiPa DaPa NiDa PaMa</br> </br> DaPa DaMa PaMa GaMa </br> </br> DaMa PaMa DaPa MaGa </br> </br> PaMa PaGa MaGa RiGa </br> </br> PaGa MaGa PaMa GaRi </br> </br> MaGa MaRi GaRi SaRi </br> </br> MaRi GaRi MaGa RiSa ||",
+    audoSrc: "sounds/Dhatu_4.mp3",
+  },
 ];
